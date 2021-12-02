@@ -4,6 +4,8 @@
 
  <ul>
        Gosto de jogar videogame.🎮
+       <br>
        Gosto de andar de bicicleta.🚴
+       <br>
        Gosto de dormir💤
   </ul>
