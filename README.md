@@ -1,4 +1,4 @@
-<h1> Olá seja bem vindo ao meu perfil.🤚 </ h1>
+<h1> Olá seja bem vindo ao meu perfil.🤚 </ h1><p> Sou Gabriel Correa Fiusa tenho 16 anos.</p>
 
 <strong>Atualmente faço parte do programa edutech PR.</strong></p>
 
