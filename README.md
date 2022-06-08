@@ -1,5 +1,6 @@
 <h1> Olá seja bem vindo ao meu perfil.🤚 </h1><p> Sou Gabriel Correa Fiusa tenho 16 anos.</p>
 
+<p>Esse ano eu estou fazendo aplicações com javascript também na plataforma alura em parceria com o programa edutech - PR</p>
 <strong>Atualmente conclui o curso front end na plataforma alura junto com parceria programa edutech - PR.🙌</strong></p>
 <p>Estou no ensino médio agora em 2022 vou para o 2 ano</p>
  <ul>
