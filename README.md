@@ -5,7 +5,7 @@
 <strong><em>Atualmente conclui o curso front end na plataforma alura em parceria com o programa edutech - PR</em>.🙌</strong></p>
 <p>Estou no ensino médio agora em 2022 vou para o 2 ano</p>
  <ul>
-       <li><em>Gosto de programar em html5, css3, javascript</li></em>
+       <li><em>Gosto de programar em html5, css3, javascript.</li></em>
        <li><em>Gosto de jogar videogame.🎮<em></li>
        <li><em>Gosto de andar de bicicleta.🚴</em></li>
        <li><em>Gosto de dormir.💤<em></li>
